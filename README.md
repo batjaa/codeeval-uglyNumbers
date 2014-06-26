@@ -38,9 +38,9 @@ Your program should accept as its first argument a path to a filename. Each line
 
 Print out the number of expressions that evaluate to an ugly number for each test case, each one on a new line. E.g.
 
-`0`
-`1`
-`6`
-`64`
+    0
+    1
+    6
+    64
 
 **Source:** <http://example.com/>
